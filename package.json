@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "4.12.4",
+    "@mui/icons-material": "5.10.9",
+    "@mui/lab": "latest",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.9/docs/data/material/components/timeline/OppositeContentTimeline.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "keywords": [],
+  "name": "projectassesment-1",
+  "version": "0.0.73",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
